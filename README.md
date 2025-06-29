@@ -1,11 +1,3 @@
-# Rock, Paper, Scissors
-
-_itlaic text_
-- bullet point
-
-
-
-
 # 🎮 Game Title
 
 ![Screenshot or Logo](./path-to-your-screenshot-or-logo.png)
